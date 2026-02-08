@@ -1,5 +1,4 @@
 # Traffic-Management-System---multi-process-Traffic-Simulator
-# Traffic Management System - OS Project
 
 A multi-process, multi-threaded traffic simulation system implemented in C++ that demonstrates inter-process communication (IPC), thread synchronization, and resource management concepts from Operating Systems.
 
